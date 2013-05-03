@@ -9,3 +9,4 @@ Download the MySQL table <a href="http://ge.tt/7vOP2Xf/v/0?c">here</a> (687 MB c
 Here's the nbviewer link to the notebooks:
 
 * <a href="http://nbviewer.ipython.org/urls/raw.github.com/herrfz/gdelt/master/israel_palestine.ipynb">Getting started</a>
+* <a href="http://nbviewer.ipython.org/urls/raw.github.com/herrfz/gdelt/master/indn_connection.ipynb">Indonesian conflicts 2012</a>
